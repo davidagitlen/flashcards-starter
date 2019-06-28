@@ -8,7 +8,7 @@ Played entirely through the command line interface (CLI), alternately referred t
 
 Here is what a typical run-through of the game will look like (with slight differences, depending on how your command line is displayed!): 
 
-![flash cards example gif](https://media.giphy.com/media/1zkb1q58eTiTH6D7wc/giphy.gif)
+![flash cards example gif](./gif)
 
 ## Setup
 
